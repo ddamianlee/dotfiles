@@ -2,6 +2,8 @@ set background=dark
 set t_Co=256
 colorscheme hemisu
 
+set ai
+set shiftwidth=4
 " set number
 set nu
 " auto alignment
