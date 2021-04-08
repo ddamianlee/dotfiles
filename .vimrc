@@ -58,7 +58,7 @@ map <f6> :Tlist<cr>
 let NERDTreeShowLineNumbers=1
 let NERDTreeAutoCenter=1
 "share tree
-let g:nerdtree_tabs_open_on_console_startup=1
+"let g:nerdtree_tabs_open_on_console_startup=1
 
 let g:NERDTreeGitStatusIndicatorMapCustom = {
                 \ 'Modified'  :'✹',
